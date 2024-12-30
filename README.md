@@ -1,6 +1,8 @@
 # 🖥️ CODING_TEST_PRACTICE
-> Practice coding test with baekjoon, leetcode
-> Language : C++
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9;">
+<strong>Practice coding test with baekjoon, leetcode</strong><br>
+<strong>Language:</strong> C++
+</div>
 ---
 ## ✒️ Solving records
 __sort by latest__

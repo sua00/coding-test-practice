@@ -8,9 +8,9 @@
 ​
 ---
 ​
-**문제 접근 | 손코딩**
+## 문제 접근 | 손코딩
 ​
-[!Image|kage@CiBqD/btsLB0GrbDc/6jR5c0mmip637jXHwhJZ0K/img.png|CDM|1.3|{"originWidth":1735,"originHeight":1000,"style":"alignCenter","width":503,"height":290}_]
+![Image](kage@CiBqD/btsLB0GrbDc/6jR5c0mmip637jXHwhJZ0K/img.png)
 ​
 > 그동안 흔하게 본 유형이라 금방 논리를 세웠다  
 > \- 입력 받을 정수의 개수를 입력 받는다  

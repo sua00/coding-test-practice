@@ -4,13 +4,13 @@
 ​
 ---
 ​
-[##_Image|kage@YBk1L/btsLCtnXeeZ/O1ckEtgOqmA5mOrK0Li3h1/img.png|CDM|1.3|{"originWidth":2384,"originHeight":924,"style":"alignCenter"}_##]
+[Image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FYBk1L%2FbtsLCtnXeeZ%2FO1ckEtgOqmA5mOrK0Li3h1%2Fimg.png)
 ​
 ---
 ​
 **문제 접근 | 손코딩**
 ​
-[##_Image|kage@CiBqD/btsLB0GrbDc/6jR5c0mmip637jXHwhJZ0K/img.png|CDM|1.3|{"originWidth":1735,"originHeight":1000,"style":"alignCenter","width":503,"height":290}_##]
+[!Image|kage@CiBqD/btsLB0GrbDc/6jR5c0mmip637jXHwhJZ0K/img.png|CDM|1.3|{"originWidth":1735,"originHeight":1000,"style":"alignCenter","width":503,"height":290}_]
 ​
 > 그동안 흔하게 본 유형이라 금방 논리를 세웠다  
 > \- 입력 받을 정수의 개수를 입력 받는다  

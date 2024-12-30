@@ -2,6 +2,9 @@
 > Practice coding test with baekjoon, leetcode  
 > Language : C++
 ---
+## [백준](https://github.com/sua00/coding-test-practice/tree/e8efe155a1a2e0292136515e41e403e436cd8972/baekjoon)
+> - (24.12.30~) 가장 낮은 단계부터 풀이 시작
+---
 ## ✒️ Solving records
 __sort by latest__
 | Date          | Problem                | Level | Source     | Language     |

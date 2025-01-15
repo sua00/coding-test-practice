@@ -1,7 +1,7 @@
-[https://www.acmicpc.net/problem/10807](https://www.acmicpc.net/problem/10807)
+
 ​
 ## **문제 : 총 N개의 정수가 주어졌을 때, 정수 v가 몇 개인지 구하는 프로그램을 작성하시오.(Bronze 5)**
-
+[https://www.acmicpc.net/problem/10807](https://www.acmicpc.net/problem/10807)
 ​
 ![Image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FYBk1L%2FbtsLCtnXeeZ%2FO1ckEtgOqmA5mOrK0Li3h1%2Fimg.png)
 ​

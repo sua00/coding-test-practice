@@ -24,7 +24,7 @@ __sort by latest__
 |2025.01.21| [숫자의 합(11720)](https://github.com/sua00/coding-test-practice/tree/1d1edef6cdbb17f5cee0661f2561bebb776e6309/baekjoon/bronze/11720%EC%88%AB%EC%9E%90%EC%9D%98%ED%95%A9)|Bronze 4|Baekjoon|C++|
 |2025.01.21| [문자열(9086)](https://github.com/sua00/coding-test-practice/tree/1d1edef6cdbb17f5cee0661f2561bebb776e6309/baekjoon/bronze/9086%20%EB%AC%B8%EC%9E%90%EC%97%B4)|Bronze 5|Baekjoon|C++|
 |2025.01.22| [단어의 개수(1152)](https://github.com/sua00/coding-test-practice/tree/1d1edef6cdbb17f5cee0661f2561bebb776e6309/baekjoon/bronze/1152%20%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98)|Bronze 2|Baekjoon|C++|
-|2025.01.23|[상수(2908)](https://github.com/sua00/coding-test-practice/tree/862034ef0b99cd3bff0858c8051e2e81cca02a1e/baekjoon/bronze/2908%20%EC%83%81%EC%88%98)|Bronze2|Baekjoon|C++|
+|2025.01.22|[상수(2908)](https://github.com/sua00/coding-test-practice/tree/862034ef0b99cd3bff0858c8051e2e81cca02a1e/baekjoon/bronze/2908%20%EC%83%81%EC%88%98)|Bronze2|Baekjoon|C++|
 
 ---
 ## 💾 Before 2024.12.30
